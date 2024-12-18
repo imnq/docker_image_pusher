@@ -1,5 +1,6 @@
 nginx
 postgres
+postgres:15
 postgis/postgis
 mysql
 rabbitmq
